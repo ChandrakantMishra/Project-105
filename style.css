@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, #fad60c, #b10af3, #f85910, #103af7, #006494);
+    color: white;
+}
+.heading{
+    width: 25%;
+    font-size: 22px;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+.name_of_faimly_members,#result_object_accuracy,#result_object_name{
+    color: rgb(15, 119, 41);
+    font-size: 20px;
+    width: 80%;
+}
